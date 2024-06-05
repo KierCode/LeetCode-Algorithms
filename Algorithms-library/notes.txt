@@ -1,0 +1,54 @@
+Welcome to my notes on algorithms ❤️ 
+
+This collection of notes is based on:
+ https://en.cppreference.com/w/cpp/algorithm 
+
+ Notes in this folder will be examples on the Algorithm library:
+    - Constrained
+
+    - Batch Operations
+
+    - Search Operations
+
+    - Fold Operations
+
+    - Copy Operations
+
+    - Swap Operations
+
+    - Transformation Operations
+
+    - Generation Operations
+
+    - Removing Operations
+
+    - Order-changing Operations
+
+    - Sampling Operations
+
+    - Partitioning Operations
+
+    - Sorting Operations
+
+    - Binary Search Operations (on Partitioned Ranges)
+
+    - Set Operations (On Sorted Ranges)
+
+    - Merge Operations (On Sorted Ranges)
+
+    - Heap Operations
+
+    -Min/Max Operations
+
+    - Lexicographical Comparison Operations
+
+    - Permutation Operations
+
+    - Numeric Operations
+    
+    - Operations on uninitialized memory
+
+    - Random Number Generation
+    
+    
+
