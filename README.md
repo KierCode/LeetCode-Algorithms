@@ -11,5 +11,5 @@ My notes on specific Algorithms in C++
 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-'C-Plus-Plus' folder contains files from TheAlgorithms github, containing their original guidelines, code of conduct, etc. that I wanted to keep in place.
+'Reference' folder contains files from TheAlgorithms github, containing their original guidelines, code of conduct, etc. that I wanted to keep in place.
 
