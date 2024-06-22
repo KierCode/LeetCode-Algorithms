@@ -7,8 +7,8 @@ My notes on specific Algorithms in C++
 
 
 ## Navigation
-Algorithm-notes-byType:
+Algorithm-notes-by Type:
 - This repo contains folders of notes on algorithms from TheAlgorithms GitHub, my personal notes on the algorithms library, and procedures of specific algorithms.
--** Easy**,** Medium**, and **Hard** are all folders that contain notes from leetcode's algorithm problems
+-**Easy**,**Medium**, and **Hard** are all folders that contain notes from leetcode's algorithm problems
 - **Reference** folder contains files from TheAlgorithms github, containing their original guidelines, code of conduct, etc. that I wanted to keep in place.
 
